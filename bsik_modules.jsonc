@@ -1,0 +1,17 @@
+{
+    "supported_schemas" : [
+        "1.0.0"
+    ],
+    "bsik_core" : "1.0.1",
+    "updated" : "",
+    "total"   : 1,
+    "modules" : {
+        "sysinfo" : {
+            "latest"      : "1.0.1",
+            "author"      : "SIKTEC",
+            "repo"        : "https://github.com/siktec-lab/bsik-module-sysinfo",
+            "title"       : "BSik System Information",
+            "description" : "Useful core information about your system",
+        }
+    }
+}
